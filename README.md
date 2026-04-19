@@ -1,4 +1,4 @@
-# Lab 10: Explainability with Alibi
+# Lab 9: Explainability with Alibi
 In this lab, you'll learn about the Alibi Explain library and implement global and local explanations of tabular and image classification models.
 
 Alibi Explain is an open source Python library aimed at machine learning model inspection and interpretation. The focus of the library is to provide high-quality implementations of black-box, white-box, local and global explanation methods for classification and regression models.
