@@ -14,7 +14,7 @@ Complete all the Deliverables mentioned below and show it to a TA for credit.
 - Show final results  about the Anchor parameters and discuss them with the TA.
 
 ## Getting Started
-Clone [this](https://github.com/pedrogbmendes/mlip-explainability-lab) repository and follow instructions in the notebook.
+Clone [this](https://github.com/hnajada/lab9_-mlip-explainability-lab) repository and follow instructions in the notebook.
 
 ### Install Dependencies
 
